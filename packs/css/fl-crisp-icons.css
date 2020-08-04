@@ -1,0 +1,171 @@
+/**
+ * Title: Crisp icons Flaticon Pack
+ * Author: Robin Kylander
+ * Source: http://www.flaticon.com/packs/crisp-icons
+ * License:  CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+ */
+
+@font-face {
+	font-family: "fl-crisp-icons";
+	src: url("../fonts/fl-crisp-icons.eot");
+	src: url("../fonts/fl-crisp-icons.eot#iefix") format("embedded-opentype"),
+	url("../fonts/fl-crisp-icons.woff") format("woff"),
+	url("../fonts/fl-crisp-icons.ttf") format("truetype"),
+	url("../fonts/fl-crisp-icons.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fl-crisp-icons-ico,
+[class^="fl-crisp-icons-"]:before, [class*=" fl-crisp-icons-"]:before,
+[class^="fl-crisp-icons-"]:after, [class*=" fl-crisp-icons-"]:after {   
+	font-family: 'fl-crisp-icons';
+    font-size: inherit;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.fl-crisp-icons-add120:before {
+	content: "\e000";
+}
+.fl-crisp-icons-block21:before {
+	content: "\e001";
+}
+.fl-crisp-icons-checkmark9:before {
+	content: "\e002";
+}
+.fl-crisp-icons-circular183:before {
+	content: "\e003";
+}
+.fl-crisp-icons-circular189:before {
+	content: "\e004";
+}
+.fl-crisp-icons-circular190:before {
+	content: "\e005";
+}
+.fl-crisp-icons-circular195:before {
+	content: "\e006";
+}
+.fl-crisp-icons-close36:before {
+	content: "\e007";
+}
+.fl-crisp-icons-contrast17:before {
+	content: "\e008";
+}
+.fl-crisp-icons-crescent22:before {
+	content: "\e009";
+}
+.fl-crisp-icons-cross67:before {
+	content: "\e00a";
+}
+.fl-crisp-icons-download117:before {
+	content: "\e00b";
+}
+.fl-crisp-icons-favorite15:before {
+	content: "\e00c";
+}
+.fl-crisp-icons-folded31:before {
+	content: "\e00d";
+}
+.fl-crisp-icons-full35:before {
+	content: "\e00e";
+}
+.fl-crisp-icons-gps17:before {
+	content: "\e00f";
+}
+.fl-crisp-icons-half25:before {
+	content: "\e010";
+}
+.fl-crisp-icons-heart263:before {
+	content: "\e011";
+}
+.fl-crisp-icons-increase8:before {
+	content: "\e012";
+}
+.fl-crisp-icons-ink11:before {
+	content: "\e013";
+}
+.fl-crisp-icons-link46:before {
+	content: "\e014";
+}
+.fl-crisp-icons-lock58:before {
+	content: "\e015";
+}
+.fl-crisp-icons-low30:before {
+	content: "\e016";
+}
+.fl-crisp-icons-minus70:before {
+	content: "\e017";
+}
+.fl-crisp-icons-minus71:before {
+	content: "\e018";
+}
+.fl-crisp-icons-monitor61:before {
+	content: "\e019";
+}
+.fl-crisp-icons-move18:before {
+	content: "\e01a";
+}
+.fl-crisp-icons-new63:before {
+	content: "\e01b";
+}
+.fl-crisp-icons-open191:before {
+	content: "\e01c";
+}
+.fl-crisp-icons-pause29:before {
+	content: "\e01d";
+}
+.fl-crisp-icons-phone336:before {
+	content: "\e01e";
+}
+.fl-crisp-icons-photo154:before {
+	content: "\e01f";
+}
+.fl-crisp-icons-play69:before {
+	content: "\e020";
+}
+.fl-crisp-icons-power91:before {
+	content: "\e021";
+}
+.fl-crisp-icons-rectangular76:before {
+	content: "\e022";
+}
+.fl-crisp-icons-recycle56:before {
+	content: "\e023";
+}
+.fl-crisp-icons-search69:before {
+	content: "\e024";
+}
+.fl-crisp-icons-speaker69:before {
+	content: "\e025";
+}
+.fl-crisp-icons-speaker70:before {
+	content: "\e026";
+}
+.fl-crisp-icons-square139:before {
+	content: "\e027";
+}
+.fl-crisp-icons-square140:before {
+	content: "\e028";
+}
+.fl-crisp-icons-stop33:before {
+	content: "\e029";
+}
+.fl-crisp-icons-tablet76:before {
+	content: "\e02a";
+}
+.fl-crisp-icons-text103:before {
+	content: "\e02b";
+}
+.fl-crisp-icons-triptych2:before {
+	content: "\e02c";
+}
+.fl-crisp-icons-two278:before {
+	content: "\e02d";
+}
+.fl-crisp-icons-upload76:before {
+	content: "\e02e";
+}
+.fl-crisp-icons-user137:before {
+	content: "\e02f";
+}

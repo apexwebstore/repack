@@ -1,0 +1,413 @@
+@font-face {
+	font-family: "fl-simpleicon-communication";
+	src: url("../fonts/fl-simpleicon-communication.eot");
+	src: url("../fonts/fl-simpleicon-communication.eot#iefix") format("embedded-opentype"),
+	url("../fonts/fl-simpleicon-communication.woff") format("woff"),
+	url("../fonts/fl-simpleicon-communication.ttf") format("truetype"),
+	url("../fonts/fl-simpleicon-communication.svg") format("svg");
+	font-weight: normal; 
+	font-style: normal;
+}
+
+.fl-simpleicon-communication-ico,
+[class^="fl-simpleicon-communication-"]:before, [class*=" fl-simpleicon-communication-"]:before,
+[class^="fl-simpleicon-communication-"]:after, [class*=" fl-simpleicon-communication-"]:after {   
+	font-family: 'fl-simpleicon-communication';
+    font-size: inherit;
+	font-weight: 400;
+	font-style: normal;
+} 
+
+.fl-simpleicon-communication-antenna2:before {
+	content: "\e000";
+}
+.fl-simpleicon-communication-antenna3:before {
+	content: "\e001";
+}
+.fl-simpleicon-communication-antenna4:before {
+	content: "\e002";
+}
+.fl-simpleicon-communication-antenna5:before {
+	content: "\e003";
+}
+.fl-simpleicon-communication-antenna6:before {
+	content: "\e004";
+}
+.fl-simpleicon-communication-auricular6:before {
+	content: "\e005";
+}
+.fl-simpleicon-communication-black206:before {
+	content: "\e006";
+}
+.fl-simpleicon-communication-cloud126:before {
+	content: "\e007";
+}
+.fl-simpleicon-communication-cloud127:before {
+	content: "\e008";
+}
+.fl-simpleicon-communication-cloud128:before {
+	content: "\e009";
+}
+.fl-simpleicon-communication-cloud129:before {
+	content: "\e00a";
+}
+.fl-simpleicon-communication-cloud130:before {
+	content: "\e00b";
+}
+.fl-simpleicon-communication-cloud131:before {
+	content: "\e00c";
+}
+.fl-simpleicon-communication-cloud132:before {
+	content: "\e00d";
+}
+.fl-simpleicon-communication-cloud133:before {
+	content: "\e00e";
+}
+.fl-simpleicon-communication-cloud134:before {
+	content: "\e00f";
+}
+.fl-simpleicon-communication-cloud135:before {
+	content: "\e010";
+}
+.fl-simpleicon-communication-cloud136:before {
+	content: "\e011";
+}
+.fl-simpleicon-communication-cloud137:before {
+	content: "\e012";
+}
+.fl-simpleicon-communication-cloud138:before {
+	content: "\e013";
+}
+.fl-simpleicon-communication-cloud139:before {
+	content: "\e014";
+}
+.fl-simpleicon-communication-cloud140:before {
+	content: "\e015";
+}
+.fl-simpleicon-communication-cloud141:before {
+	content: "\e016";
+}
+.fl-simpleicon-communication-cloud142:before {
+	content: "\e017";
+}
+.fl-simpleicon-communication-cloud143:before {
+	content: "\e018";
+}
+.fl-simpleicon-communication-cloud144:before {
+	content: "\e019";
+}
+.fl-simpleicon-communication-cloud145:before {
+	content: "\e01a";
+}
+.fl-simpleicon-communication-cloud146:before {
+	content: "\e01b";
+}
+.fl-simpleicon-communication-cloud147:before {
+	content: "\e01c";
+}
+.fl-simpleicon-communication-cloud148:before {
+	content: "\e01d";
+}
+.fl-simpleicon-communication-cloud149:before {
+	content: "\e01e";
+}
+.fl-simpleicon-communication-cloud150:before {
+	content: "\e01f";
+}
+.fl-simpleicon-communication-cloud151:before {
+	content: "\e020";
+}
+.fl-simpleicon-communication-cloud152:before {
+	content: "\e021";
+}
+.fl-simpleicon-communication-cloud153:before {
+	content: "\e022";
+}
+.fl-simpleicon-communication-cloud154:before {
+	content: "\e023";
+}
+.fl-simpleicon-communication-cloud155:before {
+	content: "\e024";
+}
+.fl-simpleicon-communication-cloud156:before {
+	content: "\e025";
+}
+.fl-simpleicon-communication-cloud157:before {
+	content: "\e026";
+}
+.fl-simpleicon-communication-cloud158:before {
+	content: "\e027";
+}
+.fl-simpleicon-communication-cloud159:before {
+	content: "\e028";
+}
+.fl-simpleicon-communication-cloud160:before {
+	content: "\e029";
+}
+.fl-simpleicon-communication-clouds11:before {
+	content: "\e02a";
+}
+.fl-simpleicon-communication-email26:before {
+	content: "\e02b";
+}
+.fl-simpleicon-communication-email27:before {
+	content: "\e02c";
+}
+.fl-simpleicon-communication-email28:before {
+	content: "\e02d";
+}
+.fl-simpleicon-communication-email29:before {
+	content: "\e02e";
+}
+.fl-simpleicon-communication-inbox17:before {
+	content: "\e02f";
+}
+.fl-simpleicon-communication-inbox18:before {
+	content: "\e030";
+}
+.fl-simpleicon-communication-inbox19:before {
+	content: "\e031";
+}
+.fl-simpleicon-communication-incoming5:before {
+	content: "\e032";
+}
+.fl-simpleicon-communication-incoming6:before {
+	content: "\e033";
+}
+.fl-simpleicon-communication-incoming7:before {
+	content: "\e034";
+}
+.fl-simpleicon-communication-incoming8:before {
+	content: "\e035";
+}
+.fl-simpleicon-communication-letter28:before {
+	content: "\e036";
+}
+.fl-simpleicon-communication-mail39:before {
+	content: "\e037";
+}
+.fl-simpleicon-communication-mail40:before {
+	content: "\e038";
+}
+.fl-simpleicon-communication-mail41:before {
+	content: "\e039";
+}
+.fl-simpleicon-communication-mail42:before {
+	content: "\e03a";
+}
+.fl-simpleicon-communication-mail43:before {
+	content: "\e03b";
+}
+.fl-simpleicon-communication-mail44:before {
+	content: "\e03c";
+}
+.fl-simpleicon-communication-mail45:before {
+	content: "\e03d";
+}
+.fl-simpleicon-communication-mail46:before {
+	content: "\e03e";
+}
+.fl-simpleicon-communication-mail47:before {
+	content: "\e03f";
+}
+.fl-simpleicon-communication-mail48:before {
+	content: "\e040";
+}
+.fl-simpleicon-communication-mail49:before {
+	content: "\e041";
+}
+.fl-simpleicon-communication-mail50:before {
+	content: "\e042";
+}
+.fl-simpleicon-communication-mail51:before {
+	content: "\e043";
+}
+.fl-simpleicon-communication-mail52:before {
+	content: "\e044";
+}
+.fl-simpleicon-communication-mail53:before {
+	content: "\e045";
+}
+.fl-simpleicon-communication-mail54:before {
+	content: "\e046";
+}
+.fl-simpleicon-communication-mail55:before {
+	content: "\e047";
+}
+.fl-simpleicon-communication-mail56:before {
+	content: "\e048";
+}
+.fl-simpleicon-communication-mail57:before {
+	content: "\e049";
+}
+.fl-simpleicon-communication-mail58:before {
+	content: "\e04a";
+}
+.fl-simpleicon-communication-mail59:before {
+	content: "\e04b";
+}
+.fl-simpleicon-communication-mail60:before {
+	content: "\e04c";
+}
+.fl-simpleicon-communication-mail61:before {
+	content: "\e04d";
+}
+.fl-simpleicon-communication-mailbox13:before {
+	content: "\e04e";
+}
+.fl-simpleicon-communication-mailbox14:before {
+	content: "\e04f";
+}
+.fl-simpleicon-communication-mailbox15:before {
+	content: "\e050";
+}
+.fl-simpleicon-communication-mailbox16:before {
+	content: "\e051";
+}
+.fl-simpleicon-communication-mailbox17:before {
+	content: "\e052";
+}
+.fl-simpleicon-communication-mailbox18:before {
+	content: "\e053";
+}
+.fl-simpleicon-communication-mailbox19:before {
+	content: "\e054";
+}
+.fl-simpleicon-communication-mailbox20:before {
+	content: "\e055";
+}
+.fl-simpleicon-communication-music179:before {
+	content: "\e056";
+}
+.fl-simpleicon-communication-music181:before {
+	content: "\e057";
+}
+.fl-simpleicon-communication-open136:before {
+	content: "\e058";
+}
+.fl-simpleicon-communication-phone63:before {
+	content: "\e059";
+}
+.fl-simpleicon-communication-phone64:before {
+	content: "\e05a";
+}
+.fl-simpleicon-communication-phone65:before {
+	content: "\e05b";
+}
+.fl-simpleicon-communication-phone66:before {
+	content: "\e05c";
+}
+.fl-simpleicon-communication-phone67:before {
+	content: "\e05d";
+}
+.fl-simpleicon-communication-phone68:before {
+	content: "\e05e";
+}
+.fl-simpleicon-communication-phone69:before {
+	content: "\e05f";
+}
+.fl-simpleicon-communication-phone70:before {
+	content: "\e060";
+}
+.fl-simpleicon-communication-phone71:before {
+	content: "\e061";
+}
+.fl-simpleicon-communication-phone72:before {
+	content: "\e062";
+}
+.fl-simpleicon-communication-phone73:before {
+	content: "\e063";
+}
+.fl-simpleicon-communication-phone74:before {
+	content: "\e064";
+}
+.fl-simpleicon-communication-phone75:before {
+	content: "\e065";
+}
+.fl-simpleicon-communication-phone76:before {
+	content: "\e066";
+}
+.fl-simpleicon-communication-sent1:before {
+	content: "\e067";
+}
+.fl-simpleicon-communication-sent:before {
+	content: "\e068";
+}
+.fl-simpleicon-communication-signal29:before {
+	content: "\e069";
+}
+.fl-simpleicon-communication-signal30:before {
+	content: "\e06a";
+}
+.fl-simpleicon-communication-signal31:before {
+	content: "\e06b";
+}
+.fl-simpleicon-communication-signal32:before {
+	content: "\e06c";
+}
+.fl-simpleicon-communication-signal33:before {
+	content: "\e06d";
+}
+.fl-simpleicon-communication-signal34:before {
+	content: "\e06e";
+}
+.fl-simpleicon-communication-stormy:before {
+	content: "\e06f";
+}
+.fl-simpleicon-communication-telephone78:before {
+	content: "\e070";
+}
+.fl-simpleicon-communication-telephone79:before {
+	content: "\e071";
+}
+.fl-simpleicon-communication-telephone80:before {
+	content: "\e072";
+}
+.fl-simpleicon-communication-telephone81:before {
+	content: "\e073";
+}
+.fl-simpleicon-communication-tower12:before {
+	content: "\e074";
+}
+.fl-simpleicon-communication-tower13:before {
+	content: "\e075";
+}
+.fl-simpleicon-communication-tower14:before {
+	content: "\e076";
+}
+.fl-simpleicon-communication-wifi35:before {
+	content: "\e077";
+}
+.fl-simpleicon-communication-wifi36:before {
+	content: "\e078";
+}
+.fl-simpleicon-communication-wifi37:before {
+	content: "\e079";
+}
+.fl-simpleicon-communication-wifi38:before {
+	content: "\e07a";
+}
+.fl-simpleicon-communication-wifi39:before {
+	content: "\e07b";
+}
+.fl-simpleicon-communication-wifi40:before {
+	content: "\e07c";
+}
+.fl-simpleicon-communication-wifi41:before {
+	content: "\e07d";
+}
+.fl-simpleicon-communication-wifi42:before {
+	content: "\e07e";
+}
+.fl-simpleicon-communication-wifi43:before {
+	content: "\e07f";
+}
+.fl-simpleicon-communication-wifi44:before {
+	content: "\e080";
+}
+.fl-simpleicon-communication-wifi45:before {
+	content: "\e081";
+}
+.fl-simpleicon-communication-wifi46:before {
+	content: "\e082";
+}

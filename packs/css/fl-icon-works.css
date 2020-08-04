@@ -1,0 +1,186 @@
+/**
+ * Title: Icon works Flaticon Pack
+ * Author: Icon Works
+ * Source: http://www.flaticon.com/packs/icon-works
+ * License:  CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+ */
+
+@font-face {
+	font-family: "fl-icon-works";
+	src: url("../fonts/fl-icon-works.eot");
+	src: url("../fonts/fl-icon-works.eot#iefix") format("embedded-opentype"),
+	url("../fonts/fl-icon-works.woff") format("woff"),
+	url("../fonts/fl-icon-works.ttf") format("truetype"),
+	url("../fonts/fl-icon-works.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fl-icon-works-ico,
+[class^="fl-icon-works-"]:before, [class*=" fl-icon-works-"]:before,
+[class^="fl-icon-works-"]:after, [class*=" fl-icon-works-"]:after {   
+	font-family: 'fl-icon-works';
+    font-size: inherit;
+	font-weight: 400;
+	font-style: normal;
+} 
+
+.fl-icon-works-alignment:before {
+	content: "\e000";
+}
+.fl-icon-works-arrow639:before {
+	content: "\e001";
+}
+.fl-icon-works-battery154:before {
+	content: "\e002";
+}
+.fl-icon-works-battery155:before {
+	content: "\e003";
+}
+.fl-icon-works-bell46:before {
+	content: "\e004";
+}
+.fl-icon-works-briefcase56:before {
+	content: "\e005";
+}
+.fl-icon-works-calendar166:before {
+	content: "\e006";
+}
+.fl-icon-works-camera90:before {
+	content: "\e007";
+}
+.fl-icon-works-credit-card21:before {
+	content: "\e008";
+}
+.fl-icon-works-delete96:before {
+	content: "\e009";
+}
+.fl-icon-works-document168:before {
+	content: "\e00a";
+}
+.fl-icon-works-document169:before {
+	content: "\e00b";
+}
+.fl-icon-works-document170:before {
+	content: "\e00c";
+}
+.fl-icon-works-door27:before {
+	content: "\e00d";
+}
+.fl-icon-works-down-arrow4:before {
+	content: "\e00e";
+}
+.fl-icon-works-download170:before {
+	content: "\e00f";
+}
+.fl-icon-works-drop29:before {
+	content: "\e010";
+}
+.fl-icon-works-earth208:before {
+	content: "\e011";
+}
+.fl-icon-works-email109:before {
+	content: "\e012";
+}
+.fl-icon-works-email110:before {
+	content: "\e013";
+}
+.fl-icon-works-expand44:before {
+	content: "\e014";
+}
+.fl-icon-works-football160:before {
+	content: "\e015";
+}
+.fl-icon-works-heart301:before {
+	content: "\e016";
+}
+.fl-icon-works-house158:before {
+	content: "\e017";
+}
+.fl-icon-works-keyboard55:before {
+	content: "\e018";
+}
+.fl-icon-works-left-arrow5:before {
+	content: "\e019";
+}
+.fl-icon-works-light91:before {
+	content: "\e01a";
+}
+.fl-icon-works-moon155:before {
+	content: "\e01b";
+}
+.fl-icon-works-mountain35:before {
+	content: "\e01c";
+}
+.fl-icon-works-padlock48:before {
+	content: "\e01d";
+}
+.fl-icon-works-padlock49:before {
+	content: "\e01e";
+}
+.fl-icon-works-padlock50:before {
+	content: "\e01f";
+}
+.fl-icon-works-phone382:before {
+	content: "\e020";
+}
+.fl-icon-works-pie-chart1:before {
+	content: "\e021";
+}
+.fl-icon-works-price14:before {
+	content: "\e022";
+}
+.fl-icon-works-refresh67:before {
+	content: "\e023";
+}
+.fl-icon-works-right-alignment:before {
+	content: "\e024";
+}
+.fl-icon-works-save27:before {
+	content: "\e025";
+}
+.fl-icon-works-smartphone26:before {
+	content: "\e026";
+}
+.fl-icon-works-speech-bubble5:before {
+	content: "\e027";
+}
+.fl-icon-works-speech-bubble6:before {
+	content: "\e028";
+}
+.fl-icon-works-star178:before {
+	content: "\e029";
+}
+.fl-icon-works-tick9:before {
+	content: "\e02a";
+}
+.fl-icon-works-timetable:before {
+	content: "\e02b";
+}
+.fl-icon-works-trophy71:before {
+	content: "\e02c";
+}
+.fl-icon-works-unlocked47:before {
+	content: "\e02d";
+}
+.fl-icon-works-unlocked48:before {
+	content: "\e02e";
+}
+.fl-icon-works-up-arrow7:before {
+	content: "\e02f";
+}
+.fl-icon-works-upload123:before {
+	content: "\e030";
+}
+.fl-icon-works-user163:before {
+	content: "\e031";
+}
+.fl-icon-works-volume55:before {
+	content: "\e032";
+}
+.fl-icon-works-wifi86:before {
+	content: "\e033";
+}
+.fl-icon-works-wrench75:before {
+	content: "\e034";
+}

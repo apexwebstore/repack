@@ -1,0 +1,72 @@
+/**
+ * Title: Demo icons Flaticon Pack
+ * Author: Pavel Kozlov
+ * Source: http://www.flaticon.com/packs/demo-icons
+ * License:  CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+ */
+
+@font-face {
+	font-family: "fl-demo-icons";
+	src: url("../fonts/fl-demo-icons.eot");
+	src: url("../fonts/fl-demo-icons.eot#iefix") format("embedded-opentype"),
+	url("../fonts/fl-demo-icons.woff") format("woff"),
+	url("../fonts/fl-demo-icons.ttf") format("truetype"),
+	url("../fonts/fl-demo-icons.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.fl-demo-icons-ico,
+[class^="fl-demo-icons-"]:before, [class*=" fl-demo-icons-"]:before,
+[class^="fl-demo-icons-"]:after, [class*=" fl-demo-icons-"]:after {   
+	font-family: 'fl-demo-icons';
+     font-size: inherit;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.fl-demo-icons-calendar190:before {
+	content: "\e000";
+}
+.fl-demo-icons-download7:before {
+	content: "\e001";
+}
+.fl-demo-icons-exit22:before {
+	content: "\e002";
+}
+.fl-demo-icons-garbage15:before {
+	content: "\e003";
+}
+.fl-demo-icons-graphic53:before {
+	content: "\e004";
+}
+.fl-demo-icons-link75:before {
+	content: "\e005";
+}
+.fl-demo-icons-magnifying glass28:before {
+	content: "\e006";
+}
+.fl-demo-icons-padlock80:before {
+	content: "\e007";
+}
+.fl-demo-icons-pin76:before {
+	content: "\e008";
+}
+.fl-demo-icons-purchase2:before {
+	content: "\e009";
+}
+.fl-demo-icons-share51:before {
+	content: "\e00a";
+}
+.fl-demo-icons-speech bubble28:before {
+	content: "\e00b";
+}
+.fl-demo-icons-target60:before {
+	content: "\e00c";
+}
+.fl-demo-icons-user13:before {
+	content: "\e00d";
+}
+.fl-demo-icons-volume5:before {
+	content: "\e00e";
+}
